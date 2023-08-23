@@ -1,0 +1,7 @@
+RECURSION: Function calling itself or Function call inside same Function is called recursion.
+ADVANTAGES:
+-We can avoid loops with the help of recursion
+-Number of lines of code can be reduced
+DISADVANTAGES:
+-It takes lot of memory at running time
+-Tracking back or tracing program is difficult

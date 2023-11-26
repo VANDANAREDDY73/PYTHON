@@ -1,0 +1,8 @@
+fileob = open('write.txt','w')
+print(fileob.tell())
+fileob.write('Python full stack developer\n,Sql is a data base\n,Web technologies is used for designing web pages')
+print(fileob.tell())
+print(fileob.writable())
+fileob.writelines(['10\n','abc\n','hello\n','hi'])
+print(fileob.tell())
+fileob.close()

@@ -1,0 +1,6 @@
+Python full stack developer
+,Sql is a data base
+,Web technologies is used for designing web pages10
+abc
+hello
+hi
